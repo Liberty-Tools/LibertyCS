@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "T/7TMWGqe+k=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\therb\\Projects\\LibertyTools\\LibertyCS\\LibertyTools.LibertyCS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\therb\\.nuget\\packages\\libsodium\\1.0.19\\libsodium.1.0.19.nupkg.sha512",
+    "C:\\Users\\therb\\.nuget\\packages\\nsec.cryptography\\24.4.0\\nsec.cryptography.24.4.0.nupkg.sha512",
+    "C:\\Users\\therb\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.26\\microsoft.netcore.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\therb\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.26\\microsoft.windowsdesktop.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\therb\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.26\\microsoft.aspnetcore.app.ref.8.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}

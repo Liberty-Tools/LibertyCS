@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageId>LibertyTools.LibertyCS</PackageId>
+    <Version>0.1.0</Version>
+    <Description>C# SDK for the ER:LC Private Server API v2</Description>
+    <Authors>Liberty Tools</Authors>
+    <PackageLicenseExpression>ISC</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/Liberty-Tools/LibertyCS</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/Liberty-Tools/LibertyCS</PackageProjectUrl>
+    <PackageTags>erlc;roblox;discord-bot;sdk</PackageTags>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageReleaseNotes>Initial package release.</PackageReleaseNotes>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="README.md" Pack="true" PackagePath="\" />
+    <None Include="LICENSE" Pack="true" PackagePath="" />
+    <PackageReference Include="NSec.Cryptography" Version="24.4.0" />
+  </ItemGroup>
+</Project>

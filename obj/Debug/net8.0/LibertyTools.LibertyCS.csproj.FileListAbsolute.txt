@@ -1,0 +1,12 @@
+C:\Users\therb\Projects\LibertyTools\LibertyCS\bin\Debug\net8.0\LibertyTools.LibertyCS.deps.json
+C:\Users\therb\Projects\LibertyTools\LibertyCS\bin\Debug\net8.0\LibertyTools.LibertyCS.dll
+C:\Users\therb\Projects\LibertyTools\LibertyCS\bin\Debug\net8.0\LibertyTools.LibertyCS.pdb
+C:\Users\therb\Projects\LibertyTools\LibertyCS\obj\Debug\net8.0\LibertyTools.LibertyCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\therb\Projects\LibertyTools\LibertyCS\obj\Debug\net8.0\LibertyTools.LibertyCS.AssemblyInfoInputs.cache
+C:\Users\therb\Projects\LibertyTools\LibertyCS\obj\Debug\net8.0\LibertyTools.LibertyCS.AssemblyInfo.cs
+C:\Users\therb\Projects\LibertyTools\LibertyCS\obj\Debug\net8.0\LibertyTools.LibertyCS.csproj.CoreCompileInputs.cache
+C:\Users\therb\Projects\LibertyTools\LibertyCS\obj\Debug\net8.0\LibertyTools.LibertyCS.dll
+C:\Users\therb\Projects\LibertyTools\LibertyCS\obj\Debug\net8.0\refint\LibertyTools.LibertyCS.dll
+C:\Users\therb\Projects\LibertyTools\LibertyCS\obj\Debug\net8.0\LibertyTools.LibertyCS.pdb
+C:\Users\therb\Projects\LibertyTools\LibertyCS\obj\Debug\net8.0\ref\LibertyTools.LibertyCS.dll
+C:\Users\therb\Projects\LibertyTools\LibertyCS\obj\Debug\net8.0\LibertyTools.LibertyCS.csproj.AssemblyReference.cache
